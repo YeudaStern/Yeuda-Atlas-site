@@ -65,4 +65,6 @@ function showLoading() {
 </div>
 
       `;
+  
+  console.log('hello');
 }
